@@ -1,0 +1,34 @@
+package logica;
+
+import static org.junit.Assert.*;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+public class ListaHistorialTest {
+
+	@Before
+	public void setUp() throws Exception {
+	}
+
+	@After
+	public void tearDown() throws Exception {
+	}
+
+	@Test
+	public void testGetComponentesActuales() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetComponentesDeAnio() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testBuscarHistorialDeAnio() {
+		fail("Not yet implemented");
+	}
+
+}
